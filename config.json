@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerperify",
+        "uuid": 8568736,
+        "checksum": "ip45as"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
